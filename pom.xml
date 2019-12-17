@@ -26,11 +26,6 @@
       <artifactId>cssbox</artifactId>
       <version>4.15</version>
     </dependency>
-      <dependency>
-          <groupId>com.oracle.javafx</groupId>
-          <artifactId>javafx</artifactId>
-          <version>13.0.1</version>
-      </dependency>
     <dependency>
      <groupId>org.junit.jupiter</groupId>
      <artifactId>junit-jupiter-api</artifactId>
