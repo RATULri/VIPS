@@ -3,10 +3,8 @@ This application is an implementation of the web segmentation algorithm, ViPS: V
 
 
 How to run:
-
 This is a simple Java project. Just clone the repository and run it in any Java IDE. It's that simple!!!
 
 
 How to use the project:
-
 This project's input and output, both are images. So to start with the process, take a screenshot of your intended webpage. Put the screenshot as the input of the project. It will give you an output which will contain the segmented portions of the webpage.
